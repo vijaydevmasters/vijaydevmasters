@@ -29,7 +29,7 @@ I am a passionate **Robotics and AI Engineer** currently pursuing my **Master of
 
 📌 **Adaptive Text-to-Command Translation for Robot Navigation**  
 ➡️ Fine-tuned a **T5-Small** transformer to translate natural language commands into structured navigation plans, achieving **98.5% accuracy** while reducing training parameters by **99.64%**. Integrated with **ROS2 and Gazebo** for real-world testing.  
-[🔗 GitHub Repo](https://github.com/vijaydevmasters)
+[🔗 GitHub Repo](https://github.com/suhasnagaraj99/NLP)
 
 📌 **Multimodal Alignment Model for LiDAR and Image Data**  
 ➡️ Developed a **LiDAR-RGB alignment model** using **Q-Former, ViT, and PointNet++** encoders, achieving robust embedding alignment and 2D/3D bounding box prediction.  
