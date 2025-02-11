@@ -51,7 +51,7 @@ I am a passionate **Robotics and AI Engineer** currently pursuing my **Master of
 
 ### 📫 Connect With Me
 
-[📧 Email](mailto:creddy@umd.edu) | [💼 LinkedIn](http://www.linkedin.com/in/vijay-chevireddi/) | [🐙 GitHub](https://github.com/vijaydevmasters)
+[📧 Email](mailto:creddy@umd.edu) | [💼 LinkedIn](http://www.linkedin.com/in/vijay-chevireddi/) | [🐙 GitHub](https://github.com/vijaydevmasters) | [🐙 Website](https://vijaydevmasters.github.io/portfolio/)
 
 ---
 
