@@ -28,7 +28,7 @@ I’m a forward-thinking **Robotics and AI Engineer**, currently pursuing a **Ma
 
 ### 🚀 Featured Projects
 
-📌 **[LLM-Powered Personalized Learning Pipeline](https://github.com/vijaydevmasters/LLM-Personalized-Learning)**  
+📌 **[LLM-Powered Personalized Learning Pipeline](https://github.com/vijaydevmasters/Spotify_For_Learning)**  
 *MIT AI Hackathon, May 2025*  
 ➡️ Built an end-to-end **LLM-driven audio learning assistant** using **Gemini 1.5, RAG, and ElevenLabs**, converting user prompts into curated educational snippets.
 
