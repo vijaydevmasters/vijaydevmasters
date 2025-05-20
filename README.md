@@ -1,59 +1,78 @@
 # Hi, I'm Vijay Dev Reddy! 👋
 
-🚀 **Robotics & AI Enthusiast** | 🤖 **Machine Learning & Deep Learning Engineer** | 🎯 **Autonomous Systems Developer**
+🚀 **Robotics & AI Engineer** | 🤖 **Machine Learning & Deep Learning Developer** | 🎯 **Autonomous Systems Innovator**
 
 ---
 
 ### 🔬 About Me
 
-I am a passionate **Robotics and AI Engineer** currently pursuing my **Master of Engineering in Robotics** at the **University of Maryland, College Park**. With a strong foundation in **Mechanical Engineering** from Osmania University, I have expanded my expertise into **artificial intelligence, deep learning, and autonomous systems**.
+I’m a forward-thinking **Robotics and AI Engineer**, currently pursuing a **Master of Engineering in Robotics** at the **University of Maryland, College Park** (GPA: 3.77). With a solid background in **Mechanical Engineering** from **Osmania University**, my interests have grown into the realms of **machine learning, deep learning, and autonomous systems**.
 
-🔹 My academic journey has been enriched with coursework in **multimodal foundation models, natural language processing, reinforcement learning, and perception for autonomous robots**.  
-🔹 I have strong proficiency in **C++, Python, MATLAB**, and experience with cutting-edge frameworks like **PyTorch, TensorFlow, ROS2, OpenCV, and Hugging Face**.
+- 🔹 Hands-on experience in **multimodal models, NLP, deep learning, reinforcement learning, and robotic perception**
+- 🔹 Skilled in **Python, C++, and MATLAB**, with strong expertise in **PyTorch, TensorFlow, ROS2, OpenCV, Hugging Face, and CUDA**
 
-📍 **Research Assistant at the Fischell Department of Bioengineering**, where I work on AI-driven solutions for modernizing oyster farming, enhancing **underwater dredger detection** with **YOLOv8 and RT-DETR**, improving **detection accuracy by 6%**.
+💼 **Currently interning at the UMD Fischell Department of Bioengineering**, applying AI to modernize oyster farming and develop pose-based human motion classifiers.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
-- **Languages:** C/C++, Python, Bash, MATLAB  
-- **Machine Learning & AI:** PyTorch, TensorFlow, Hugging Face, OpenAI Gym, Stable-baselines3  
-- **Computer Vision & Robotics:** OpenCV, ROS2, Scikit-learn, SciPy  
-- **Development Tools:** Docker, AWS, NumPy, Pandas  
-- **3D Design & Simulation:** SOLIDWORKS, NX, Gazebo  
+- **Languages:** Python, C++, MATLAB, SQL  
+- **Machine Learning & AI:** Transformers, CNNs, NLP, RL, LLMs, Fine-tuning, RLHF, Distillation  
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Hugging Face, OpenCV, Open3D, LangChain, TIMM, ROS2  
+- **DevOps & Cloud:** Docker, Git, AWS, SageMaker  
+- **Simulation & Robotics:** CARLA, Gazebo, Isaac Sim, OpenAI Gym, Path Planning, SLAM  
+- **Tools & Optimization:** CUDA, TensorRT, ONNX, SciPy, NumPy, Pandas, SOLIDWORKS  
 
 ---
 
 ### 🚀 Featured Projects
 
-📌 **Adaptive Text-to-Command Translation for Robot Navigation**  
-➡️ Fine-tuned a **T5-Small** transformer to translate natural language commands into structured navigation plans, achieving **98.5% accuracy** while reducing training parameters by **99.64%**. Integrated with **ROS2 and Gazebo** for real-world testing.  
-[🔗 GitHub Repo](https://github.com/suhasnagaraj99/NLP)
+📌 **[LLM-Powered Personalized Learning Pipeline](https://github.com/vijaydevmasters/LLM-Personalized-Learning)**  
+*MIT AI Hackathon, May 2025*  
+➡️ Built an end-to-end **LLM-driven audio learning assistant** using **Gemini 1.5, RAG, and ElevenLabs**, converting user prompts into curated educational snippets.
 
-📌 **Multimodal Alignment Model for LiDAR and Image Data**  
-➡️ Developed a **LiDAR-RGB alignment model** using **Q-Former, ViT, and PointNet++** encoders, achieving robust embedding alignment and 2D/3D bounding box prediction.  
-[🔗 GitHub Repo](https://github.com/vijaydevmasters/Q-former)
+📌 **[Agentic AI Vision-Based Task Planner]**  
+*UMD, Mar 2025*  
+➡️ Developed an AI agent that detects, reasons, and organizes cluttered scenes using **YOLOv8 + DeepSeek’s LLaMA-70B**.
 
-📌 **AI Learns to Play MARIO with Deep-Q Learning & SWIN Transformer**  
-➡️ Trained an AI agent using **DQN and SWIN Transformer**, achieving a **500-moving average reward of 2700 in just 1250 episodes**.  
-[🔗 GitHub Repo](https://github.com/vijaydevmasters/MARIO_DDQN_SWIN)
+📌 **[Transformer-Based NLP Pipeline for Robot Navigation](https://github.com/suhasnagaraj99/NLP)**  
+*UMD, Dec 2024*  
+➡️ Fine-tuned **T5-Small** with **LoRA** to map natural language to robotic commands in **ROS2**, achieving **92.5% accuracy** with a **99.64% parameter reduction**.
 
-📌 **Advanced Vision Systems for Autonomous Navigation**  
-➡️ Applied **YOLOv5, homography, and optical flow** for real-time obstacle detection and dynamic route planning, achieving **80% successful navigation** in unknown terrains.  
-[🔗 GitHub Repo](https://github.com/vijaydevmasters/autonomous_navigation_perception)
+📌 **[Transformers for 3D Object Detection in LiDAR](https://github.com/vijaydevmasters/Q-former)**  
+*UMD, Dec 2024*  
+➡️ Combined **PointNet++ and Transformer encoders**, achieving **mAP IoU 0.67** on the KITTI dataset for 3D bounding box detection.
 
-📌 **RNN & LSTM Models for Airplane Passenger Forecasting**  
-➡️ Developed **RNN and LSTM** models for passenger forecasting, with **LSTM achieving 90% accuracy**.  
-[🔗 GitHub Repo](https://github.com/vijaydevmasters/RNN_LSTM_Airline_passanger/tree/main)
+📌 **[Vision-Augmented Deep-Q Learning for Mario](https://github.com/vijaydevmasters/MARIO_DDQN_SWIN)**  
+*UMD, May 2024*  
+➡️ Trained an agent using **DQN + SWIN Transformer**, achieving a **moving average reward of 2700** in just **1250 episodes**.
+
+📌 **[Advanced Vision Systems for Autonomous Navigation](https://github.com/vijaydevmasters/autonomous_navigation_perception)**  
+*UMD, May 2024*  
+➡️ Integrated **YOLOv5, homography, and optical flow** for dynamic obstacle detection and path planning with **80% success rate**.
+
+📌 **[Airplane Passenger Forecasting with RNN & LSTM](https://github.com/vijaydevmasters/RNN_LSTM_Airline_passanger/tree/main)**  
+➡️ Built time-series models for airline passenger prediction with **LSTM achieving 90% accuracy**.
 
 ---
 
-### 📫 Connect With Me
+### 🧪 Research Experience
 
-[📧 Email](mailto:creddy@umd.edu) | [💼 LinkedIn](http://www.linkedin.com/in/vijay-chevireddi/) | [🐙 GitHub](https://github.com/vijaydevmasters) | [🐙 Website](https://vijaydevmasters.github.io/portfolio/)
+**UMD Bioengineering – Machine Learning Intern**  
+- Improved IoU by **6%** using **RT-DETR** for dredger detection  
+- Implemented **MMPose + CNN Transformer** for human walking classification  
+
+**Sai Vamsi Industries – ML Engineer**  
+- Used **YOLO** for real-time anomaly detection in press tool machines  
+- Fused vibration sensor data with images to improve detection by **5%**
 
 ---
 
-💡 **Always eager to explore AI and robotics innovations! Let's build something great together!** 🚀
+### 📫 Let’s Connect
 
+[📧 Email](mailto:vijaydevmasters@gmail.com) | [💼 LinkedIn](http://www.linkedin.com/in/vijay-chevireddi/) | [🐙 GitHub](https://github.com/vijaydevmasters) | [🌐 Website](https://vijaydevmasters.github.io/portfolio/)
+
+---
+
+💡 **Eager to innovate in AI and Robotics. Let’s build the future together!** 🤖🚀
