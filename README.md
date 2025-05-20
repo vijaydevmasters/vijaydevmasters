@@ -20,7 +20,7 @@ I’m a forward-thinking **Robotics and AI Engineer**, currently pursuing a **Ma
 - **Languages:** Python, C++, MATLAB, SQL  
 - **Machine Learning & AI:** Transformers, CNNs, NLP, RL, LLMs, Fine-tuning, RLHF, Distillation  
 - **Frameworks & Libraries:** PyTorch, TensorFlow, Hugging Face, OpenCV, Open3D, LangChain, TIMM, ROS2  
-- **DevOps & Cloud:** Docker, Git, AWS, SageMaker  
+- **DevOps & Cloud:** Docker, Git, [AWS Certified](https://www.credly.com/badges/3d3a6865-9609-4156-ac14-8a2ba504b9f4/public_url), SageMaker  
 - **Simulation & Robotics:** CARLA, Gazebo, Isaac Sim, OpenAI Gym, Path Planning, SLAM  
 - **Tools & Optimization:** CUDA, TensorRT, ONNX, SciPy, NumPy, Pandas, SOLIDWORKS  
 
@@ -32,7 +32,7 @@ I’m a forward-thinking **Robotics and AI Engineer**, currently pursuing a **Ma
 *MIT AI Hackathon, May 2025*  
 ➡️ Built an end-to-end **LLM-driven audio learning assistant** using **Gemini 1.5, RAG, and ElevenLabs**, converting user prompts into curated educational snippets.
 
-📌 **[Agentic AI Vision-Based Task Planner]**  
+📌 **Agentic AI Vision-Based Task Planner**  
 *UMD, Mar 2025*  
 ➡️ Developed an AI agent that detects, reasons, and organizes cluttered scenes using **YOLOv8 + DeepSeek’s LLaMA-70B**.
 
